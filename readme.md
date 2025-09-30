@@ -53,4 +53,4 @@ Durante a construção do projeto foram trabalhados:
 
 ## 📝 Observações  
 - Projeto feito de forma guiada durante as aulas do curso Origamid.  
--O design e o código foram mantidos próximos ao exemplo do professor, com o objetivo de consolidar os fundamentos de CSS Grid Layout.
+- O design e o código foram mantidos próximos ao exemplo do professor, com o objetivo de consolidar os fundamentos de CSS Grid Layout.
